@@ -1,0 +1,19 @@
+.block_qrcode_quizdidaktik div.content {
+  border-style:none;
+}
+
+.block_qrcode_quizdidaktik iframe#mein_qrcode {
+    width:205px;
+    height:205px;
+    border-width:0px;
+    border-style:none;
+    border-color:#ffffff;
+    background-color:#ffffff;
+    overflow:hidden;
+    padding:0px;
+    margin:0px;
+    margin-left:2px;
+    margin-top:2px;
+}
+
+
