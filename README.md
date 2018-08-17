@@ -10,3 +10,5 @@ Basiert auf der JavaScript Bibliothek "QRQode for Javascript" (MIT-Lizenz) von
 sowie dem online QR-Code Generator von
 
   * [Joachim Jakob, 2017](https://quizdidaktik.de/qrcodegenerator-2.0/)
+
+![Screenshot](QR-Code_Quizdidaktik_Screenshot.png)
